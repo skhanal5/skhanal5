@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subodh Khanal</h1>
-<h3 align="center">A passionate software engineer from College Park, Maryland</h3>
+<h3 align="center">Aspiring software engineer from College Park, Maryland</h3>
 
 - 🔭 I’m currently working on [My Personal Website](https://github.com/skhanal5/personal-website)
 
